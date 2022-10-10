@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    background-color: #FFCAB0;
+    max-height: 100%;
+}
+.detail{
+    position: absolute;
+    font-size: 230px;
+    opacity: 3%;
+    top: 120px;
+}
+
+.logo{
+margin-left: -100px;
+}
+
+.deta{
+    position: absolute;
+    font-size: 230px;
+    opacity: 3%;
+    bottom: -65px;
+}
+
+.details{
+    margin-left: 100px;
+}
+.detai{
+    position: absolute;
+    font-size: 230px;
+    opacity: 3%;
+    bottom: 100px;
+}
+
+
+nav {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+
+.navlink{
+    display: flex;
+    justify-content: space-between;
+    width: 35%;
+    
+}
+
+.navlink a {
+    text-decoration: none;
+    color: black;
+
+}
+
+section{
+    display: flex;
+    justify-content: space-around;
+}
+
+.circle{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    background-color:#FFEBBB;
+    position: relative;
+    top: 50px;
+    right: 20px ;
+    opacity: 50%;
+}
+
+.handbags{
+    position: absolute;
+    bottom: 50px;
+}
+
+.headline{
+    font-size: 50px;
+}
+
+.subheadline {
+    font-size: 20px;
+}
+
+button{
+    padding: 10px 60px 10px 60px;
+    border-radius: 10px;
+    border: none;
+    background-color: black;
+    color: #FFCAB0;
+    
+
+}
